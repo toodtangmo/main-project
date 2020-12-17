@@ -1,0 +1,4 @@
+[submodule "sub-project"]
+	path = sub-project
+	url = https://github.com/toodtangmo/sub-project.git
+	branch = master
